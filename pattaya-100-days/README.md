@@ -6,6 +6,33 @@
 > Human review required before merge to `main`.  
 > No invented detail. Unknown remains unknown.
 
+## Repository navigation
+
+- [INDEX.md](./INDEX.md) — Full evidence and chronology index
+- [EVIDENCE_RULES.md](./EVIDENCE_RULES.md) — Evidence, privacy and human-check rules
+- [README.md](./README.md) — Main narrative
+
+### Current structure
+
+```text
+100 days
+├── First 60 days  → Pattaya field / KOOL Base / S_003
+└── Following 40 days → OTA + Golden Dragon operations
+```
+
+### Evidence streams
+
+```text
+KOOLCustom / S_003          = fabrication and field proof
+Reflex801 foundation        = system-origin context
+OTA                         = product / platform / visual alignment
+Golden Dragon / KOOL Car Rent = transport and service operations
+```
+
+These streams may cross-reference each other, but they must not be substituted for one another.
+
+---
+
 ## What this is
 
 This is a field record of a 100-day assignment in Pattaya / Chonburi during 2026.
