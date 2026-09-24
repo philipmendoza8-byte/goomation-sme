@@ -24,6 +24,13 @@ This is **“ซอยของจริง”** — a sandbox for grassroots wa
 
 ---
 
+## 🗂️ Field Records
+
+- [Pattaya 100 Days](./pattaya-100-days/README.md) — 2026 field record: Field → Production → OTA → Operations
+- [Pattaya 100 Days Index](./pattaya-100-days/INDEX.md) — evidence map, chronology and publication boundary
+
+---
+
 ## 📦 Modules Coming Soon
 
 - `/input-form-snap/` → Take photo, get data, done.
